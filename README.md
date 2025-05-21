@@ -23,6 +23,7 @@
 
 ## 🌎 Languages
 - English
+- Spanish
 
 ## ⚽ Hobbies
 - Volleyball 🏐
