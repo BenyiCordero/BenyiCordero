@@ -1,0 +1,39 @@
+# 👋 Hi, I'm Benyi Cordero
+
+## 🚀 About Me
+- **Student & Tech Enthusiast**
+- Passionate about software development and electronics.
+- Always ready to help other students by sharing solutions and open source code.
+
+## 🛠️ Tech Stack
+- **Languages:** Java, C++, C, Kotlin, JavaScript, HTML, CSS, MySQL
+- **Frameworks & Tools:** Spring Boot, Arduino
+
+## 🤝 How I can help you
+- Open to collaborate on student projects, coding challenges, or technical problems.
+- Happy to share code snippets, solutions, or advice on any of my tech stacks.
+
+## 🌱 Currently Interested In
+- Learning new frameworks and tools.
+- Building practical applications and contributing to open source.
+- pruebaTecnica and other coding challenges.
+
+## 📫 Contact Me
+- Instagram: [@benyi_37](https://instagram.com/benyi_37)
+
+## 🌎 Languages
+- English
+
+## ⚽ Hobbies
+- Volleyball 🏐
+- Gym 🏋️
+
+---
+
+> “Let’s learn, build, and grow together!”
+
+
+<!---
+BenyiCordero/BenyiCordero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
