@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Benyi Cordero
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BenyiCordero)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BenyiCordero&theme=highcontrast)](https://git.io/streak-stats)
 ## 🚀 About Me
 - **Student & Tech Enthusiast**
 - Passionate about software development and electronics.
