@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Benyi Cordero
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BenyiCordero&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BenyiCordero&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast)](https://git.io/streak-stats)
 ## 🚀 About Me
 - **Student & Tech Enthusiast**
 - Passionate about software development and electronics.
 - Always ready to help other students by sharing solutions and open source code.
 
 ## 🛠️ Tech Stack
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenyiCordero&layout=compact)
 - **Languages:** Java, C++, C, Kotlin, JavaScript, HTML, CSS, MySQL
 - **Frameworks & Tools:** Spring Boot, Arduino
 
